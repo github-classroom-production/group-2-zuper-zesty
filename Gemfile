@@ -62,7 +62,7 @@ gem "pg",                   "~> 1.1.4"
 gem "pg_search",            "~> 2.2"
 gem "pry-byebug",           "~> 3.5"
 gem "pry-rails",            "~> 0.3.6"
-gem "puma",                 "~> 4.0", ">= 4.0.1"
+gem "puma",                 "~> 4.3"
 
 gem "rack-canonical-host", "~> 0.2.3"
 gem "rack-rewrite",        "~> 1.5.0"
